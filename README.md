@@ -26,4 +26,4 @@ https://javantienotetaker.herokuapp.com/
 # ScreenShot 
 ![App Image](https://github.com/javantie/TeamPortfolioGenerator/blob/main/assets/images/screenshot.PNG)
 
-![App Image](https://github.com/javantie/TeamPortfolioGenerator/blob/main/assets/images/screenshot2.PNG)
+![App Image](https://github.com/javantie/Note-Taker-App/blob/main/public/assets/images/screenshot2.PNG)
