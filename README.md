@@ -20,6 +20,10 @@ Please check the application via website:
 # Questions
 If you have any questions about the repo, open an issue or contact [javantie](https://github.com/javantie) directly [javantieclarke@gmail.coom](mailto:javantieclarke@gmail.coom).
 
+# View Application:
+https://javantienotetaker.herokuapp.com/ 
 
 # ScreenShot 
 ![App Image](https://github.com/javantie/TeamPortfolioGenerator/blob/main/assets/images/screenshot.PNG)
+
+![App Image](https://github.com/javantie/TeamPortfolioGenerator/blob/main/assets/images/screenshot2.PNG)
