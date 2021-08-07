@@ -14,7 +14,7 @@ The following necessary dependencies must be installed to run the application pr
 # License
   This project is license under the  MIT license.
 # Test
-Please check the application via website: 
+Please check the application via website: https://javantienotetaker.herokuapp.com/
 # Contributing
 ​Contributors: Akeem Clarke
 # Questions
